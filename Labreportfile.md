@@ -6,7 +6,7 @@ This Markdown file contains **experiment-wise** and **question-wise** placeholde
 * Code
 * Output Screenshots
 
-Paste your C programs and screenshots in the spaces provided.
+
 
 ---
 
