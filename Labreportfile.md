@@ -1,6 +1,6 @@
 # C Programming Lab Report
 
-This Markdown file contains **experiment-wise** and **question-wise** placeholders for:
+This  file contains **experiment-wise** and **question-wise** placeholders for:
 
 * Algorithm
 * Code
