@@ -78,12 +78,30 @@ Stop
 
 
 ### **Code:**
+#include <stdio.h>
+
+int main() {
+    char name[50];
+    int age;
+
+    printf("Enter your name: ");
+    scanf("%49s", name);   // reads one word name
+
+    printf("Enter your age: ");
+    scanf("%d", &age);
+
+    printf("\nYour Name: %s", name);
+    printf("\nYour Age : %d\n", age);
+
+    return 0;
+}
+
 
 
 
 
 ### **Output Screenshot:**
-![Screenshot](Q.png)
+![Screenshot](df.png)
 ---
 
 ## **4. Add two numbers (user input)**
