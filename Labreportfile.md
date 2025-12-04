@@ -2162,7 +2162,7 @@ int main() {
    ========================================================== */
 
 ### Output:
-![Screenshot](Q48.png)
+![Screenshot](lib1.png)
 ---
 
 ## **2. Use Static Library**
@@ -2238,7 +2238,7 @@ int main() {
    ========================================================== */
 
 ### Output:
-![Screenshot](Q49.png)
+![Screenshot](lib2.png)
 ---
 
 # **Experiment 15: Shared Library**
@@ -2295,7 +2295,7 @@ float divide(float a, float b) { return (b == 0 ? 0 : a / b); }
    ========================================================== */
 
 ### Output:
-![Screenshot](Q50.png)
+![Screenshot](lib1.png)
 ---
 
 ## **2. Use Shared Library**
@@ -2344,7 +2344,7 @@ int main() {
    ========================================================== */
 
 ### Output:
-![Screenshot](Q51.png)
+![Screenshot](lib2.png)
 ---
 
 # **End of Report**
